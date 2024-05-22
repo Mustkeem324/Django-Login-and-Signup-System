@@ -20,7 +20,7 @@ def SignupPage(request):
             return render(request, 'signup.html', context)
         else:
             try:
-                if not username  or not email:
+                if not uname  or not email:
                     context = {'error_message': 'Username cannot be empty!'}
                     return render(request, 'signup.html', context)
                 elif not pass1  or not pass2:
