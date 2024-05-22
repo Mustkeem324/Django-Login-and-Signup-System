@@ -1,7 +1,7 @@
 # Django Login and Signup System
 
 ## Introduction
-This is a simple Django project implementing a user login and signup system. It allows users to create accounts, login, and logout. The project is built using Django, a high-level Python web framework, providing a clean and pragmatic design.
+Django project implementing a user login and signup system. It allows users to create accounts, login, and logout. The project is built using Django, a high-level Python web framework, providing a clean and pragmatic design.
 
 ## Requirements
 - Python (>=3.6)
